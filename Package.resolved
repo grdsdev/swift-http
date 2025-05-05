@@ -1,5 +1,5 @@
 {
-  "originHash" : "1f54ae6ab697734392740a1de453931071a732224f5575e67c1da7a1f2290ba4",
+  "originHash" : "e815ab9b9024dcc42070423921dbaf52b668e334e8d270d2d2d72dbb077d9c43",
   "pins" : [
     {
       "identity" : "swift-custom-dump",
@@ -15,8 +15,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/apple/swift-http-types",
       "state" : {
-        "revision" : "ef18d829e8b92d731ad27bb81583edd2094d1ce3",
-        "version" : "1.3.1"
+        "revision" : "a0a57e949a8903563aba4615869310c0ebf14c03",
+        "version" : "1.4.0"
       }
     },
     {
@@ -24,8 +24,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/pointfreeco/swift-snapshot-testing",
       "state" : {
-        "revision" : "b2d4cb30735f4fbc3a01963a9c658336dd21e9ba",
-        "version" : "1.18.1"
+        "revision" : "1be8144023c367c5de701a6313ed29a3a10bf59b",
+        "version" : "1.18.3"
       }
     },
     {
@@ -33,8 +33,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/swiftlang/swift-syntax",
       "state" : {
-        "revision" : "0687f71944021d616d34d922343dcef086855920",
-        "version" : "600.0.1"
+        "revision" : "f99ae8aa18f0cf0d53481901f88a0991dc3bd4a2",
+        "version" : "601.0.1"
       }
     },
     {
@@ -47,5 +47,5 @@
       }
     }
   ],
-  "version" : 2
+  "version" : 3
 }
